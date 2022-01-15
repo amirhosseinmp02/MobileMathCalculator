@@ -1,2 +1,2 @@
 # MobileMathCalculator
-a simple android math calculator using Xamarin .
+A simple android math calculator using Xamarin .
